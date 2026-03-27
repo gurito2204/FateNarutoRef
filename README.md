@@ -1,4 +1,4 @@
-#**Fate Naruto Ref (Fate Fight Game)**
+#**Fate Naruto Ref (Fate Fight Game)**#
 ##🎮 Play the Game Here! https://gx.games/games/6fer6m/fate-weirdo-type/
 
 Welcome to Fate Naruto Ref, an action-packed 2D fighting/platformer game made in GameMaker Studio! This project is heavily inspired by and built upon the original Naruto Fight Game framework by deratsonder. It takes the core ninja combat mechanics and modifies them to create a unique, "Fate"-inspired crossover experience.
